@@ -1,0 +1,550 @@
+Brand,product_color,RAM_GB,ROM_GB,Offer,Ratings,Selling_Price,Total
+Poco,Power Black,4,64,29,4.2,8499,11999
+Motorola,Atlantic Green,4,64,41,4.2,9999,16999
+Motorola,Metallic Rose,4,64,41,4.2,9999,16999
+Motorola,Lavender Blue,4,128,28,3.9,9999,13999
+Redmi,Black,2,32,37,4.2,6299,9999
+Poco,Power Black,6,128,32,4.1,9499,13999
+Poco,Cool Blue,6,128,32,4.1,9499,13999
+Redmi,Light Green,2,32,37,4.2,6299,9999
+Motorola,Matte Charcoal,4,128,28,3.9,9999,13999
+Poco,Forest Green,6,128,32,4.1,9499,13999
+Samsung,Dark Blue,4,64,29,4.1,8123,11499
+Redmi,Light Blue,2,32,37,4.2,6299,9999
+Redmi,Flashy Black,4,64,26,4.3,10999,14999
+Samsung,Opal Green,4,64,26,4.2,8499,11499
+Redmi,Peppy Purple,4,64,26,4.3,10999,14999
+Samsung,Jade Purple,4,64,26,4.2,8499,11499
+Redmi,Lavender Purple,4,64,37,4.2,8714,13999
+Vivo,Orchid Blue,3,32,34,4.3,8499,12999
+Poco,Shadow Gray,4,64,37,4.3,7499,11999
+Samsung,Light Green,4,128,30,4.1,9335,13499
+Oppo,Blue,3,64,26,4.5,9499,12999
+Redmi,Sunrise Orange,4,64,33,4.3,9999,14999
+Redmi,Shadow Black,4,64,33,4.3,9999,14999
+Infinix,Force Black,4,64,23,4.2,9999,12999
+Vivo,Cosmic Grey,3,32,34,4.3,8499,12999
+Redmi,Coral Green,6,128,26,4.2,9499,12999
+Samsung,Onyx,2,32,33,4.1,6985,10490
+Motorola,Eco Black,4,64,20,3.9,8799,10999
+Redmi,Matte Black,4,64,36,4.2,8820,13999
+Realme,Stripe Blue,4,64,28,4.2,8599,11999
+Redmi,Light Blue,2,32,25,4.2,6699,8999
+Oppo,Navy Blue,3,64,26,4.5,9499,12999
+Redmi,Caribbean Green,4,64,33,4.3,9999,14999
+Oppo,Navy Blue,3,64,23,4.5,9899,12999
+Oppo,Gold,3,64,26,4.5,9499,12999
+Realme,Watery Grey,4,128,16,4.4,9999,11999
+Realme,Dark Blue,4,64,10,4.2,8979,9999
+Redmi,Metallic Purple,4,64,9,4.2,9980,10999
+Tecno,Endless Black,4,64,19,4.3,8090,9999
+Samsung,Dark Blue,4,128,22,4.1,10470,13499
+Redmi,Midnight Black,4,64,33,4.3,9999,14999
+Realme,Cross Black,3,32,5,4.4,9499,9999
+Samsung,Bronze,2,32,31,4.1,7185,10499
+Redmi,Sky Blue,4,64,6,4.2,10249,10999
+Redmi,Pacific Blue,4,64,33,4.3,9999,14999
+Realme,Sandy Gold,4,64,23,4.4,9999,12999
+Realme,Aqua Blue,4,64,23,4.4,9999,12999
+Realme,Night Sea,4,64,23,4.4,9999,12999
+Redmi,Royal Blue,4,64,33,4.2,9249,13999
+Redmi,Metallic Blue,2,32,10,4.1,8490,9499
+Infinix,Emerald Green,4,64,16,4.3,9999,11999
+Infinix,Silver Wave,4,64,16,4.3,9999,11999
+Redmi,Carbon Black,4,64,9,4.2,9999,10999
+Realme,Night Sea,4,64,23,4.4,9999,12999
+Realme,Aqua Blue,4,64,23,4.4,9999,12999
+Infinix,Halo White,6,64,28,4.2,9999,13999
+Infinix,Aurora Green,4,64,23,4.2,9999,12999
+Lava,Glass Orange,4,64,30,4.2,9024,12999
+Tecno,Atlantic Blue,4,64,37,4.2,8990,14499
+Infinix,Sunset Gold,4,64,23,4.2,9999,12999
+Infinix,Polar Black,4,64,23,4.2,9999,12999
+Infinix,Racing Black,6,64,28,4.2,9999,13999
+Infinix,Lightsaber Green,6,64,28,4.2,9999,13999
+Nokia,CYAN,4,64,9,3.5,9999,10999
+Realme,Glowing Black,4,64,30,4.4,9699,13999
+Motorola,Slate Gray,4,64,23,3.9,9999,12999
+Tecno,Orange,4,64,20,4.3,7999,9999
+Nokia,Charcoal,3,32,33,4.1,7999,11999
+Oppo,Midnight Black,3,32,30,4.3,9790,13990
+Vivo,Aurora Blue,2,32,9,3.8,9999,10990
+Tecno,Atlantic Blue,4,64,18,4.3,8999,10999
+Samsung,Copper,3,64,17,4.2,9940,11990
+Tecno,Turquoise Cyan,3,64,9,4.2,9990,10999
+Tecno,Sky Mirror,4,64,22,4.1,8890,11499
+Lava,Glass Green,4,64,15,4.1,8498,9999
+Redmi,Carbon Black,3,32,5,4.2,8990,9499
+Motorola,Matte Charcoal,4,64,26,3.9,9499,12999
+Realme,Mint Green,4,64,5,4.2,9489,9999
+Redmi,Slate grey,4,64,15,4.2,9270,10999
+Tecno,Turquoise Cyan,4,64,15,4.2,10999,12999
+Redmi,Slate Grey,3,32,9,4.1,9999,10999
+Motorola,Misty Silver,4,64,23,3.9,9999,12999
+Micromax,Black,3,32,16,4.0,9999,11999
+Redmi,Midnight Black,3,32,4,4.3,9099,9499
+Oppo,White,3,32,29,4.3,9900,13990
+Redmi,Carbon Black,4,64,3,4.2,9990,10399
+Redmi,Charcoal Black,3,32,15,4.1,9299,10999
+Samsung,Black,2,32,31,4.1,7199,10499
+Lava,Glass Red,4,64,18,4.1,9389,11499
+Redmi,Sea Blue,3,32,7,4.1,9499,10300
+Samsung,Mint,2,32,31,4.1,7499,10999
+Redmi,Carbon Black,4,64,22,4.2,9280,11999
+Redmi,Metallic Blue,2,32,13,4.1,7390,8499
+Nokia,Mint,4,64,30,3.5,8990,12997
+Nokia,Charcoal,4,64,27,3.5,9389,12999
+Redmi,Royal Blue,4,128,36,4.2,9594,14999
+Tecno,Infinity Black,3,64,9,4.0,9999,10999
+Micromax,White,4,64,25,4.1,11499,15499
+Oppo,Gold,3,64,25,4.5,9740,12999
+Lava,Glass Orange,6,128,29,4.0,9899,13999
+Nokia,Light mint,3,64,18,4.3,7480,9198
+Micromax,Purple,4,64,33,4.0,9999,14999
+Samsung,Green,2,32,19,4.1,8403,10499
+Redmi,Sea Blue,4,64,27,4.2,8650,11999
+Lava,Glass Green,4,64,25,4.1,8589,11499
+Nokia,Ocean Blue,2,32,24,3.9,7949,10499
+Samsung,Blue,3,32,25,4.1,8991,11999
+I,Jordy Blue,6,128,16,2.7,9999,11999
+Lava,Glass Green,4,64,19,4.2,10499,12999
+Lava,Glass Gold,4,64,25,4.2,9749,12999
+Lava,Glass Blue,4,64,19,4.2,10499,12999
+Realme,Night Black,4,64,27,4.2,8699,11999
+Samsung,Black,3,32,14,4.0,11499,13499
+Redmi,Aqua Blue,2,64,26,4.0,7390,9999
+Vivo,Sapphire Blue,2,32,16,4.2,9999,11999
+Samsung,Copper,3,64,16,4.2,9999,11999
+Lava,Glass Blue,4,64,21,4.1,8989,11499
+Samsung,Blue,2,32,22,4.1,8150,10499
+Redmi,Mint Green,4,64,16,4.2,9195,10999
+Redmi,Sea Green,4,64,31,4.1,8229,11999
+Lava,GLASS LAVENDER,4,64,13,4.1,8690,9999
+Vivo,Cosmic Grey,4,64,28,4.1,9999,13999
+Vivo,Sunset Gold,4,64,28,4.1,9999,13999
+Nokia,Charcoal,4,128,9,3.7,9999,10999
+Tecno,Black,128,8,18,4.1,10195,12499
+Motorola,Tahiti Blue,4,64,16,4.1,9999,11999
+Infinix,Obsidian Black,4,64,13,4.3,9499,10999
+Redmi,Aqua Blue,4,64,33,4.1,7346,10999
+Tecno,Diamond Grey,3,64,9,4.2,9999,10999
+Lava,Glass Red,3,64,7,4.0,8989,9699
+Lava,Glass Black,3,64,10,4.0,8699,9699
+Redmi,Classic Black,4,64,33,4.1,7303,10999
+Redmi,Gold,3,32,3,4.4,10649,10999
+Lava,Glass Red,4,64,21,4.0,8999,11499
+Nokia,MINT,4,64,12,3.7,9149,10499
+Redmi,?Aqua Blue,4,64,32,4.1,8150,11999
+Samsung,Black,4,64,22,4.5,9999,12900
+Redmi,Slate Grey,3,32,4,4.1,9599,9999
+Samsung,Blue,4,64,22,4.5,9999,12900
+Nokia,Beach Pink,4,128,9,3.7,9999,10999
+Lava,Aqua Blue,6,64,20,4.0,8888,11249
+Moto,Oxford Blue,3,32,9,4.1,9999,10999
+Moto,Fine Gold,3,32,9,4.1,9999,10999
+Nokia,Mint,4,128,13,3.7,9499,10999
+Nokia,Sand,4,64,10,4.2,8470,9499
+Redmi,Lavender Purple,4,64,31,4.2,9588,13999
+Tecno,Meta Green,128,8,20,4.1,9935,12499
+Redmi,Royal Blue,4,64,13,4.2,9495,10999
+Nokia,Mint,4,128,9,3.7,9990,10999
+Nokia,Beach pink,4,64,12,3.7,9149,10499
+Nokia,Dark Cyan,3,64,6,4.3,8599,9199
+Nokia,Charcoal,3,64,6,4.3,8599,9199
+Nokia,Purple,4,64,10,4.2,8475,9499
+Vivo,Starry Blue,2,32,16,4.3,9990,11990
+Oppo,Black,3,32,9,4.4,9990,10990
+Redmi,Matte Black,4,64,25,4.2,9670,12990
+Redmi,Lavender Purple,4,64,32,4.2,9448,13999
+Nokia,Beach pink,4,128,9,3.7,9997,10999
+Realme,Dynamic Black,3,64,20,4.5,9499,11999
+Nokia,Charcoal,4,64,8,3.9,8399,9199
+I,Purple,6,128,16,3.6,9999,11999
+Poco,Cool Blue,4,64,29,4.2,8499,11999
+Infinix,Marigold,8,128,25,4.3,8999,11999
+Infinix,Diamond White,8,128,25,4.3,8999,11999
+Poco,Forest Green,4,64,29,4.2,8499,11999
+Infinix,Glacier Blue,8,128,25,4.3,8999,11999
+Infinix,Mirror Black,8,128,25,4.3,8999,11999
+Vivo,Sapphire Blue,2,32,23,4.1,9999,12999
+Infinix,Aegean Blue,4,64,13,4.3,9499,10999
+Poco,Icy Blue,4,64,46,4.1,8499,15999
+Poco,Power Black,4,64,46,4.1,8499,15999
+Poco,Yellow,4,64,46,4.1,8499,15999
+Motorola,Eco Black,4,64,33,3.9,7999,11999
+Redmi,Light Green,3,32,40,4.1,6599,10999
+Samsung,Light Green,4,64,33,4.1,7944,11999
+Poco,Royal Blue,3,32,40,4.3,6499,10999
+Motorola,Carbon Gray,4,64,18,4.1,8999,10999
+Realme,Dark Green,3,32,26,4.5,8049,10999
+Infinix,Turquoise Cyan,4,64,30,4.2,8999,12999
+Realme,Light Silver,3,32,26,4.5,8049,10999
+Infinix,7° Purple,4,64,30,4.2,8999,12999
+Infinix,Polar Black,4,64,30,4.2,8999,12999
+Infinix,Exploratory Blue,4,64,30,4.2,8999,12999
+Itel,Dreamy Blue,4,64,17,4.2,7320,8899
+Redmi,Light Green,2,32,30,4.2,6250,8999
+Redmi,Black,2,32,32,4.2,6100,8999
+Realme,Stripe Black,4,64,29,4.2,8499,11999
+Tecno,Turquoise Cyan,4,64,29,4.3,8795,12499
+Itel,Deep Ocean Black,2,32,24,4.3,6059,7999
+Tecno,UYUNI BLUE,3,3,18,4.1,6749,8299
+Motorola,Pink Clay,4,64,18,4.1,8999,10999
+Redmi,Coral Green,3,32,15,4.2,7990,9499
+Lava,Striped Blue,3,32,11,4.1,7499,8499
+Tecno,UYUNI BLUE,4,64,15,4.3,7999,9499
+Itel,Dreamy Blue,3,32,17,4.1,6879,8299
+Itel,Luxurious Gold,3,32,15,4.1,6990,8299
+Itel,Force Black,3,32,15,4.1,6999,8299
+Redmi,Coral Green,2,32,14,4.1,7285,8499
+Tecno,Turquoise Cyan,2,64,13,4.1,8650,9999
+Tecno,Uyuni Blue,4,64,16,4.3,8398,9999
+Tecno,Tahiti Gold,4,64,29,4.3,8870,12499
+Tecno,Galaxy Blue,2,32,7,4.2,8288,8999
+Realme,Carbon Black,4,64,10,4.3,8999,9999
+Tecno,Maldives Blue,2,32,13,4.2,7799,8999
+Lava,LAVENDER,4,64,12,4.1,8729,9999
+Realme,Dark Blue,3,32,9,4.2,8188,8999
+Vivo,Olive Black,2,32,23,3.8,8399,10990
+Nokia,Charcoal,2,64,19,4.4,6999,8699
+Redmi,Nature Green,2,32,11,4.3,7490,8499
+Infinix,Morandi Green,3,32,10,4.3,8990,9999
+Itel,Luxurious Gold,4,64,17,4.2,7314,8899
+Itel,Force Black,4,64,15,4.2,7480,8899
+Tecno,Iris Purple,4,64,37,4.2,8999,14499
+Tecno,Atlantic Blue,2,64,18,4.1,8180,9999
+Tecno,Glacier White,4,64,25,4.1,8888,11999
+Nokia,Light mint,2,64,19,4.4,6999,8699
+Lava,Flame Red,3,32,11,4.1,7999,8999
+Nokia,White,3,32,32,3.8,8490,12499
+Realme,Laser Black,3,32,10,4.3,8999,9999
+Nokia,Cyan,3,32,27,4.1,7999,10999
+Realme,Dark Blue,3,32,8,4.2,8199,8999
+Panasonic,Rose Gold,3,32,9,3.9,8999,9990
+Nokia,Dark Grey,3,32,18,3.9,8998,11099
+Tecno,Magnet Black,2,32,5,4.2,8490,8999
+Tecno,uyuni blue,3,64,18,4.3,7299,8999
+Redmi,Classic Black,2,32,27,4.0,6569,8999
+Realme,Diamond Black,3,32,5,4.4,8499,8999
+Realme,Diamond Blue,3,32,5,4.4,8499,8999
+Redmi,Aqua Blue,2,32,22,4.0,6942,8999
+Lava,Glass Blue,3,64,10,4.0,8699,9699
+Nokia,Mint,3,32,33,4.1,7999,11999
+Panasonic,Space Grey,3,32,9,3.9,8999,9990
+Panasonic,Champagne Gold,3,32,9,3.9,8999,9990
+Redmi,Sea Green,2,32,18,4.0,7295,8999
+Redmi,Sea Green,2,32,28,4.0,6470,8999
+Redmi,Aqua Blue,2,32,27,4.0,6505,8999
+Nokia,Mint,4,64,14,3.7,8999,10499
+Lava,White,4,64,10,4.1,8999,9999
+Redmi,Sea Blue,4,64,10,4.3,8999,9999
+Samsung,Black,2,16,3,4.2,8490,8800
+Samsung,Gold,2,16,3,4.2,8490,8800
+Itel,Deep Ocean Black,3,64,22,4.2,6999,8999
+Nokia,Dark Cyan,2,64,14,4.4,7450,8699
+Nokia,Light mint,4,64,11,3.9,8099,9199
+Realme,Radiant Blue,3,32,22,4.5,8499,10999
+Nokia,Dark Cyan,4,64,8,3.9,8389,9199
+Realme,Dynamic Black,3,32,22,4.5,8499,10999
+Lava,Aqua blue,6,64,24,4.0,8449,11249
+Tecno,Nebula Purple,4,64,17,4.3,8256,9999
+Infinix,Azure Blue,4,64,27,4.3,7299,9999
+Poco,Royal Blue,4,64,25,4.2,7499,9999
+Infinix,Emerald Green,4,64,27,4.3,7299,9999
+Infinix,Green Apple,2,64,22,4.3,6199,7999
+Infinix,Night Black,4,64,27,4.3,7299,9999
+Infinix,Diamond White,4,64,20,4.3,7999,9999
+Infinix,Marigold,4,64,20,4.3,7999,9999
+Motorola,Cosmic Black,4,64,33,4.0,7299,10999
+Motorola,Arctic Blue,4,64,33,3.9,7999,11999
+Motorola,Creamy White,4,64,33,4.0,7299,10999
+Infinix,Mirror Black,4,64,20,4.3,7999,9999
+Infinix,Glacier Blue,4,64,20,4.3,7999,9999
+Poco,Power Black,4,64,25,4.2,7499,9999
+Motorola,Aurora Green,4,64,33,4.0,7299,10999
+Infinix,Aurora Green,4,64,33,4.4,7999,11999
+Infinix,Luna Blue,4,64,33,4.4,7999,11999
+Infinix,Fantasy Purple,4,64,33,4.4,7999,11999
+Infinix,Racing Black,4,64,33,4.4,7999,11999
+Infinix,Silk Blue,2,64,22,4.3,6199,7999
+Poco,Royal Blue,4,64,37,4.3,7499,11999
+Poco,Shadow Gray,3,32,40,4.3,6499,10999
+Realme,Mint Green,2,32,7,4.5,7389,7999
+Realme,Carbon Black,2,32,10,4.5,7190,7999
+Tecno,Deepsea Luster,3,32,36,4.2,6948,10999
+Tecno,?Uyuni Blue,2,64,16,4.0,6665,7999
+Itel,VertMenthe,2,32,16,4.1,5999,7199
+Tecno,Endless Black,3,3,19,4.1,6666,8299
+Tecno,?Endless Black,2,64,12,4.0,6998,7999
+Itel,DawnBlue,2,32,16,4.1,5999,7199
+Infinix,Midnight Black,2,32,10,4.3,7199,7999
+Tecno,?Endless Black,3,64,11,4.3,7989,8999
+Itel,SapphireBlack,2,32,16,4.1,5985,7199
+Tecno,Nebula Purple,3,32,18,4.1,6791,8299
+Redmi,Carbon Black,2,32,16,4.1,7109,8499
+Redmi,Coral Green,4,64,26,4.3,7399,9999
+Redmi,Midnight Black,2,32,8,4.3,7799,8492
+Lava,Striped Cyan,3,32,13,4.1,7390,8499
+Itel,Deep Ocean Black,3,64,22,4.0,6999,8999
+Tecno,Endless Black,4,64,2,4.4,7799,7999
+Itel,Gradation Purple,2,32,25,4.0,6298,8499
+Itel,Deep Blue,2,32,17,4.0,6999,8499
+I,Emerald Green,4,64,20,3.1,7990,9999
+Lava,Aqua Blue,2,32,11,4.1,7499,8499
+Redmi,Metallic Blue,3,32,16,4.2,7998,9533
+Itel,Jewel Blue,3,64,37,4.2,7499,11999
+Redmi,SeaBlue,2,32,11,4.3,7490,8499
+Lava,Stroked Blue,2,32,17,4.1,6999,8449
+Infinix,Quartz Green,2,32,6,4.3,7499,7999
+Redmi,Comet Blue,2,32,7,4.3,7849,8449
+Lava,Aqua Blue,3,32,11,4.1,7999,8999
+Gionee,Royal Blue,2,32,23,4.0,6099,7999
+Redmi,Classic Black,2,64,25,4.0,7460,9999
+Redmi,Sea Green,2,64,30,4.0,6999,9999
+Lava,Striped Blue,2,32,8,4.1,7299,7999
+I,Blue,4,64,23,3.1,7989,10499
+Honor,Black,3,32,38,4.2,7999,12999
+I,Jordy Blue,4,64,25,3.5,7799,10499
+I,Gilt,4,64,25,3.5,7799,10499
+Realme,Royal Blue,2,32,25,4.4,7449,9999
+Realme,Stripe - Black,2,32,21,4.4,7899,9999
+Asus,Black,2,16,27,4.1,7499,10399
+Asus,White,2,16,25,4.1,7499,9999
+Tecno,Endless Black,3,64,12,4.1,8098,9299
+Realme,Cool Grey,2,32,2,4.4,7800,7999
+Vivo,Aurora Gold,8,128,23,4.3,15999,20999
+Poco,Royal Blue,2,32,38,4.2,5499,8999
+Poco,Country Green,2,32,38,4.2,5499,8999
+Vivo,Marine Blue,8,128,23,4.3,15999,20999
+Vivo,Glimmer Black,4,128,27,4.4,12999,17999
+Vivo,Aurora Gold,4,128,27,4.4,12999,17999
+Vivo,Marine Blue,4,128,27,4.4,12999,17999
+Vivo,Aurora Gold,6,128,26,4.4,13999,18999
+Vivo,Glimmer Black,6,128,26,4.4,13999,18999
+Vivo,Glimmer Black,8,128,23,4.3,15999,20999
+Vivo,Marine Blue,6,128,26,4.4,13999,18999
+Motorola,Mineral Gray,8,128,36,4.1,11999,18999
+Redmi,Peppy Purple,6,128,35,4.4,10999,16999
+Oneplus,Blue Tide,6,128,11,4.4,17716,19999
+Poco,Royal Blue,3,32,38,4.0,6199,9999
+Poco,Country Green,3,32,38,4.0,6199,9999
+Motorola,Frosted Blue,6,128,29,4.1,15499,21999
+Vivo,Nitro Blaze,8,128,19,4.4,20999,25999
+Poco,Power Black,6,128,26,4.2,13999,18999
+Redmi,Black,3,32,40,4.1,6599,10999
+Samsung,GOAT Green,6,128,18,4.2,14990,18490
+Poco,Power Black,6,128,44,4.2,10499,18999
+Realme,Rainforest,8,128,12,4.4,13999,15999
+Realme,Rainforest,6,64,14,4.3,11999,13999
+Realme,Rainforest,4,64,15,4.4,10999,12999
+Motorola,Midnight Blue,8,128,22,3.9,16999,21999
+Poco,Cool Blue,6,128,26,4.2,13999,18999
+Redmi,Flashy Black,6,128,35,4.4,10999,16999
+Realme,Rainy Night,8,128,12,4.4,13999,15999
+Realme,Sunshower,8,128,12,4.4,13999,15999
+Motorola,Frosted Blue,8,128,34,4.1,16499,24999
+Realme,Rainy Night,4,64,15,4.4,10999,12999
+Realme,Sunshower,4,64,15,4.4,10999,12999
+Poco,Cool Blue,4,64,25,4.2,11999,15999
+Realme,Bamboo Green,3,32,30,4.1,6499,9299
+Motorola,Satin Silver,8,128,36,4.1,11999,18999
+Realme,Denim Black,2,32,29,4.2,5999,8499
+Motorola,Midnight Gray,8,128,34,4.1,16499,24999
+Poco,Yellow,6,128,44,4.2,10499,18999
+Realme,Lake Blue,3,32,30,4.1,6499,9299
+Realme,Denim Black,3,32,30,4.1,6499,9299
+Redmi,Ice Blue,6,64,26,4.1,13999,18999
+Samsung,OMG Black,6,128,18,4.2,14990,18490
+Motorola,Cosmic Black,2,64,35,3.9,6499,9999
+Realme,Rainy Night,6,64,14,4.3,11999,13999
+Realme,Sunshower,6,64,14,4.3,11999,13999
+Poco,Yellow,4,64,25,4.2,11999,15999
+Poco,Horizon Blue,8,256,13,4.3,24999,28999
+Poco,Icy Blue,6,128,44,4.2,10499,18999
+Poco,Astral Black,8,256,13,4.3,24999,28999
+Motorola,Lucent White,8,128,22,3.9,16999,21999
+Samsung,Sunrise Copper,4,64,26,4.3,10999,14999
+Infinix,Jade White,2,64,22,4.3,6199,7999
+Infinix,Ink Black,2,64,22,4.3,6199,7999
+Redmi,Light Blue,3,32,40,4.1,6599,10999
+Realme,Dark Matter,8,128,13,4.3,19999,22999
+Redmi,Caribbean Green,6,128,35,4.2,10999,16999
+Samsung,Waterfall Blue,4,64,26,4.3,10999,14999
+Realme,Nebula Blue,8,128,13,4.3,19999,22999
+Samsung,Sunrise Copper,4,128,29,4.3,11999,16999
+Realme,Hyperspace,8,128,13,4.3,19999,22999
+Poco,Wildcat Blue,6,128,23,4.1,15999,20999
+Poco,Jaguar Black,8,256,25,4.1,17999,23999
+Samsung,Nightsky Green,4,128,29,4.3,11999,16999
+Redmi,Sunrise Gold,6,64,26,4.1,13999,18999
+Poco,Yellow,6,64,16,4.3,14999,17999
+Realme,Sandy Gold,4,128,25,4.4,10499,13999
+Poco,Supernova Green,6,128,23,4.1,15999,20999
+Samsung,Aqua Blue,6,128,29,4.3,16999,23999
+Redmi,Lunar Black,6,64,26,4.1,13999,18999
+Motorola,Creamy White,2,64,35,3.9,6499,9999
+Realme,Dark Matter,6,128,9,4.3,18999,20999
+Google,Chalk,6,128,36,4.3,27999,43999
+Samsung,Forest Green,6,128,29,4.3,16999,23999
+Redmi,Onyx Black,6,128,14,4.2,23999,27999
+Redmi,Matte Black,4,128,15,4.0,16999,19999
+Redmi,Mystique Blue,6,128,13,4.1,18999,21999
+Google,Charcoal,6,128,36,4.3,27999,43999
+Redmi,Matte Black,6,128,13,4.1,18999,21999
+Samsung,GOAT Green,4,128,20,4.2,13990,17490
+Poco,Yellow,6,128,17,4.3,16499,19999
+Redmi,Mint Green,6,128,34,4.2,10404,15999
+Realme,Aqua Blue,4,128,25,4.4,10499,13999
+Redmi,Glacier Blue,6,128,14,4.2,23999,27999
+Realme,Rush Black,4,64,21,4.2,12499,15999
+Iqoo,With Charger,6,128,23,4.3,15299,19999
+Redmi,Stardust Purple,6,128,14,4.2,23999,27999
+Redmi,Glacier Blue,8,256,15,4.2,26999,31999
+Redmi,?Lavender Purple,6,128,36,4.2,10230,15999
+Infinix,Submariner Black,8,128,40,4.1,14999,24999
+Redmi,Stardust Purple,8,128,16,4.2,24999,29999
+Infinix,Coral Orange,8,128,40,4.1,14999,24999
+Redmi,Mystique Blue,4,128,15,4.0,16999,19999
+Samsung,Copper Blush,6,128,29,4.3,16999,23999
+Samsung,OMG Black,4,128,20,4.2,13990,17490
+Infinix,Space Blue,4,64,36,4.2,11499,17999
+Infinix,Blaster Green,4,64,36,4.2,11499,17999
+Poco,Laser Black,8,128,30,4.2,17999,25999
+Iqoo,With Charger,6,128,23,4.3,15299,19999
+Poco,Yellow,8,256,13,4.3,24999,28999
+Realme,Clash White,4,64,21,4.2,12499,15999
+Samsung,Nightsky Green,4,64,26,4.3,10999,14999
+Redmi,Frosted Green,4,128,15,4.0,16999,19999
+Redmi,Stardust Purple,8,256,15,4.2,26999,31999
+Infinix,Aqua Sky,2,32,33,4.3,5999,8999
+Infinix,Origin Blue,2,32,33,4.3,5999,8999
+Infinix,Force Black,8,128,36,4.1,15999,24999
+Samsung,Deep Ocean Blue,8,128,31,4.2,17755,25999
+Samsung,Aqua Green,6,128,12,4.2,13999,15999
+Oneplus,Sonic Black,8,128,1,4.5,39499,39999
+Oneplus,Galactic Silver,8,128,2,4.5,38999,39999
+Realme,Soulful Blue,4,64,16,4.5,14999,17999
+Motorola,Meterorite Grey,8,128,17,4.1,21499,25999
+Redmi,Glacier Blue,8,128,16,4.2,24999,29999
+Poco,Supernova Green,8,256,25,4.1,17999,23999
+Infinix,Snowfall,8,128,36,4.1,15999,24999
+Realme,Rush Black,8,128,25,4.3,14999,19999
+Motorola,Nebula Green,8,256,14,4.2,29999,34999
+Poco,Laser Blue,8,128,30,4.2,17999,25999
+Realme,Rocking Black,4,64,16,4.5,14999,17999
+Motorola,Eclipse Black,8,256,14,4.2,29999,34999
+Oneplus,Sonic Black,16,256,1,4.5,44300,44999
+Samsung,Midnight Blue,6,128,26,4.1,14294,19499
+Motorola,Aurora Green,2,64,35,3.9,6499,9999
+Realme,Dark Matter,6,128,11,4.4,22999,25999
+Oppo,Midnight Black,4,64,16,4.3,12499,14999
+Vivo,Midday Dream,8,128,24,4.3,16499,21990
+Redmi,Horizon Blue,6,128,27,4.2,14480,19999
+Redmi,Arctic White,12,256,10,4.2,32999,36999
+Redmi,Thunder Black,6,128,16,4.2,15048,17999
+Redmi,Meadow Green,4,64,15,4.2,13468,15999
+Nothing,2,12,256,9,4.5,49999,54999
+Realme,Stripe Black,2,32,30,4.4,6999,9999
+Oppo,Glowing Blue,8,128,17,4.3,18099,21999
+Samsung,B.A.E. Purple,6,128,18,4.2,14990,18490
+Infinix,Racing Black,4,64,36,4.2,11499,17999
+Realme,Metallica Gold,6,128,15,4.3,16999,19999
+Realme,Rocking Black,6,128,15,4.3,16999,19999
+Redmi,Onyx Black,8,256,15,4.2,26999,31999
+Samsung,B.A.E. Purple,4,128,20,4.2,13990,17490
+Poco,Astral Black,6,128,11,4.3,22999,25999
+Nothing,2,12,512,8,4.5,54999,59999
+Realme,Prime Black,6,128,9,4.2,13512,14999
+Realme,Metallica Gold,4,64,16,4.5,14999,17999
+Poco,Wildcat Blue,8,256,25,4.1,17999,23999
+Redmi,Chrome Silver,4,64,12,4.2,13994,15999
+Redmi,Pacific Blue,6,128,35,4.2,10999,16999
+Oppo,Lake Blue,4,64,16,4.3,12499,14999
+Oneplus,Galactic Silver,16,256,1,4.5,44375,44999
+Redmi,Iceberg Blue,8,256,11,4.2,29999,33999
+Poco,Yellow,8,128,30,4.2,17999,25999
+Infinix,Blaster Green,6,128,32,4.1,13499,19999
+Nothing,2,12,256,9,4.5,49999,54999
+Nothing,2,8,128,10,4.6,44999,49999
+Redmi,Ice Blue,6,128,23,4.1,15999,20999
+Motorola,Polar Blue,6,128,27,4.1,15999,21999
+Redmi,Obsidian Black,8,256,11,4.2,29999,33999
+Realme,Steel Black,8,128,37,4.3,24999,39999
+Motorola,Meteorite Grey,6,128,27,4.1,15999,21999
+Vivo,Magic Blue,8,128,10,4.4,32999,36999
+Redmi,Sunrise Gold,6,128,23,4.1,15999,20999
+Samsung,Midnight Blue,6,128,28,4.2,12879,17999
+Vivo,Stellar Black,4,128,21,4.3,13299,16999
+Poco,Snowstorm White,8,256,14,4.2,29999,34999
+Oneplus,Sonic Black,16,256,1,4.5,44299,44999
+Poco,Horizon Blue,6,128,11,4.3,22999,25999
+Motorola,Meteor Grey,8,128,28,4.1,24999,34999
+Redmi,Arctic White,8,256,11,4.2,29999,33999
+Realme,Paper White,8,128,37,4.3,24999,39999
+Realme,Stripe Blue,2,32,30,4.4,6999,9999
+Itel,Sky Black,2,32,21,3.7,4699,5999
+Realme,Dark Matter,8,128,14,4.4,23999,27999
+Realme,Nebula Blue,6,128,11,4.4,22999,25999
+Infinix,Space Blue,6,128,32,4.1,13499,19999
+Infinix,Coral Orange,8,256,32,4.0,16999,24999
+Infinix,Green Fantasy,8,128,36,4.2,15999,24999
+Motorola,Aurora Green,8,128,28,4.1,24999,34999
+Samsung,Emarld Brown,6,128,36,4.2,15985,24999
+Nothing,2,12,512,8,4.5,54999,59999
+Poco,Carbon Black,8,256,14,4.2,29999,34999
+Samsung,Emerald Brown,8,128,31,4.2,17687,25999
+Redmi,Onyx Black,8,128,16,4.2,24999,29999
+Motorola,Interstellar Black,12,256,33,4.3,49999,74999
+Redmi,Midnight Black,6,128,35,4.2,10999,16999
+Motorola,Starlight White,12,256,33,4.3,49999,74999
+Infinix,DEEP GRAY,8,128,36,4.2,15999,24999
+Oppo,Sunlight Orange,4,64,16,4.3,12499,14999
+Realme,Speed Blue,6,128,27,4.3,12999,17999
+Redmi,Horizon Blue,4,64,28,4.2,12790,17999
+Redmi,Iceberg Blue,12,256,10,4.2,32999,36999
+Infinix,Volcanic Grey,8,256,22,4.2,16999,21999
+Poco,Steel Blue,6,64,44,4.5,12299,21999
+Oneplus,Sierra Black,8,128,27,4.3,28399,38999
+Oppo,Sunset Orange,8,128,28,4.3,16499,22999
+Tecno,Eco Black,4,64,27,4.2,10849,14999
+Redmi,Caribbean Green,4,64,32,4.3,10199,14999
+Vivo,Starlit Blue,4,128,23,4.3,14499,18999
+Vivo,Metaverse Green,4,64,19,4.3,14499,17990
+Vivo,Surfing Blue,8,128,15,4.3,27999,32999
+Vivo,Black Engine,4,128,21,4.2,17999,22999
+Tecno,Tech Silver,4,64,24,4.2,10999,14499
+Vivo,Elegant Black,12,256,24,4.2,27997,36999
+Redmi,Obsidian Black,12,256,10,4.2,32999,36999
+Iqoo,Interstellar Black,12,256,11,4.5,34595,38999
+Iqoo,Frost Blue,12,256,12,4.5,33978,38999
+Vivo,Metaverse Green,4,128,23,4.3,14499,18999
+Oneplus,Jade Fog,8,128,1,4.4,28499,28999
+Vivo,Black Engine,8,128,20,4.2,19999,24999
+Vivo,Surfing Blue,12,256,22,4.2,28490,36999
+Vivo,Midnight Galaxy,8,128,24,4.3,17999,23990
+Samsung,Stardust Brown,4,64,23,4.1,12990,16999
+Vivo,Midnight Galaxy,4,128,27,4.5,14499,19990
+Vivo,Starry Sky,4,128,27,4.5,14499,19990
+Oppo,Starlight Black,8,128,27,4.2,23150,31999
+Vivo,Starlit Blue,6,128,22,4.3,15499,19990
+Oppo,Starry Black,8,128,28,4.3,16499,22999
+Realme,Prime Blue,4,64,7,4.2,11973,12999
+Infinix,Snowfall,6,64,25,4.2,14999,19999
+Vivo,Starry Sky,8,128,24,4.3,17999,23990
+Samsung,Awesome Graphite,8,256,16,4.2,32999,39499
+Poco,Snowstorm White,12,256,15,4.2,33999,39999
+Realme,Speed Black,6,128,27,4.3,12999,17999
+Vivo,Starry Sky,6,128,23,4.4,15999,20990
+Vivo,Midnight Galaxy,6,128,23,4.4,15999,20990
+Samsung,Phantom Black,8,128,50,4.5,49999,101999
+Itel,Starry Black,1,16,27,4.3,4325,5999
+Motorola,Lunar Blue,8,256,14,4.2,29999,34999
+Vivo,Turbo Cyan,8,128,19,4.4,24999,30990
+Oneplus,Forest Green,12,256,18,4.0,34990,42999
+Google,Obsidian,8,128,16,4.3,49999,59999
+Google,Snow,8,128,16,4.3,49999,59999
+Vivo,Turbo Cyan,6,128,17,4.4,23999,28990
+Vivo,Orange Shimmer,8,128,20,4.2,19999,24999
+Oppo,Glowing Black,8,128,16,4.1,18464,21999
+Redmi,Thunder Black,4,64,15,4.2,13499,15999
+Realme,Oxygen Green,4,128,18,4.4,11385,13999
